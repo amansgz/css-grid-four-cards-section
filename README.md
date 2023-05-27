@@ -4,6 +4,7 @@
 
 This is a solution for [Four Card Feature Section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) challenge.
 
+![Design preview for the Four Card Feature Section challenge](./styles/images/preview.png)
 
 
 ## The challenge
@@ -21,6 +22,7 @@ The challenge is to build out this feature section and get it looking as close t
 ## Live site solution
 
 [Live site](https://amansgz.github.io/css-grid-four-cards-section/) deployed with GitHub Pages.
+
 
 ## Author
 
