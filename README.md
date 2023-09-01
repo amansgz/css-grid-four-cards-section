@@ -1,10 +1,4 @@
-# 👩‍💻 Frontend Mentor - Four Card Feature Section
-
-[Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
-
-This is a solution for [Four Card Feature Section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) challenge.
-
-![Design preview for the Four Card Feature Section challenge](./styles/images/preview.png)
+# 👩‍💻  Four Card Feature Section
 
 
 ## The challenge
@@ -19,11 +13,19 @@ The challenge is to build out this feature section and get it looking as close t
 - Grid Layout
 - Mobile-first workflow
 
-## Live site solution
 
-[Live site](https://amansgz.github.io/css-grid-four-cards-section/) deployed with GitHub Pages.
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/css-grid-four-cards-section/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK">
+      Challenge
+    </a>
+  </h3>
+</div>
 
+![Design preview for the Four Card Feature Section challenge](./styles/images/preview.png)
 
-## Author
-
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
