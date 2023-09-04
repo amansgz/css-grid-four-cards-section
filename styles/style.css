@@ -44,7 +44,7 @@ body {
   color: var(--very-dark-blue);
 }
 .content__text {
-  width: min(73%, 475px);
+  width: 33ch;
   margin: auto;
   color: var(--grayish-blue);
   line-height: 1.7;
@@ -161,6 +161,9 @@ body {
 @media screen and (min-width: 1200px) {
   .content {
     margin-bottom: 0;
+  }  
+  .content__text {
+    width: 58ch;
   }
   .grid-container {
     grid-template-columns: repeat(3, 370px);
